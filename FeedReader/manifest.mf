@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.myorg.feedreader
+OpenIDE-Module-Layer: org/myorg/feedreader/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/myorg/feedreader/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
